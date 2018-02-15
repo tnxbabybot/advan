@@ -41,4 +41,4 @@ cd AdvanPlus
 
 screen ./lunch api
 
-### [NoFooZiTM] (https://t.me/joinchat/AAAAAFCNKWyjPTeqG6Nv7Q)
+### [NoFooZiTM](https://t.me/joinchat/AAAAAFCNKWyjPTeqG6Nv7Q)
