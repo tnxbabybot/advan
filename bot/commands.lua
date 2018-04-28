@@ -259,7 +259,7 @@ function is_sudo(msg)
     end
   end
   
-  if msg.from.id == 435014771 then
+  if msg.from.id == 531947422 then
 	  var = true
   end
   
@@ -284,7 +284,7 @@ function is_botOwner(msg)
     end
   end
   
-  if msg.from.id == 435014771 then
+  if msg.from.id == 531947422 then
 	  var = true
   end
 	
@@ -315,7 +315,7 @@ function is_owner(msg)
     end
   end
   
-  if msg.from.id == 435014771 then
+  if msg.from.id == 531947422 then
 	  var = true
   end
   
@@ -354,7 +354,7 @@ function is_mod(msg)
     end
   end
   
-  if msg.from.id == 435014771 then
+  if msg.from.id == 531947422 then
 	  var = true
   end
   
@@ -375,7 +375,7 @@ function is_sudo1(user_id)
     end
   end
   
-  if user == 435014771 then
+  if user == 531947422 then
 	  var = true
   end
   
@@ -406,7 +406,7 @@ function is_owner1(chat_id, user_id)
     end
   end
   
-  if user == 435014771  then
+  if user == 531947422  then
 	  var = true
   end
   
