@@ -10,7 +10,7 @@ do local _ = {
   },
   cmd = "^[/!#]",
   sudo_users = {
-    437978064
+    517701652
   }
 }
 return _
